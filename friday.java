@@ -7,4 +7,4 @@ public class friday {
         System.out.println("FRIDAY!!!");
         System.out.println("FRIDAY!");
     }
-  }
+}
