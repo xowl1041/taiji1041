@@ -8,4 +8,3 @@ public class friday {
         System.out.println("FRIDAY!");
     }
   }
-}
