@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-test
-=======
-test12334
->>>>>>> aa
+test    
+aa
+bb
+cc
+
+kkbbdd
