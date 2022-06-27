@@ -2,19 +2,11 @@ test
 aa
 bb
 cc
+<<<<<<< HEAD
+=======
 dd
 ee
 ff
-
-gg
-uu
-ii
+>>>>>>> d52f75d (no message)
 
 kkbbdd
-
-
-
-
-xowl1041
-xowl10412
-xowl10413
