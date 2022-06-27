@@ -2,8 +2,7 @@ test
 aa
 bb
 cc
-<<<<<<< HEAD
-=======
+
 dd
 ee
 ff
