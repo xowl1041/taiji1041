@@ -2,7 +2,10 @@ test
 aa
 bb
 cc
+<<<<<<< HEAD
 
+=======
+>>>>>>> d52f75d (no message)
 dd
 ee
 ff
