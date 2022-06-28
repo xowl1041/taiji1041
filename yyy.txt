@@ -11,3 +11,4 @@ kkbbdd
 
 
 kjh jk rebase merge revert reset --hard --continue --abort
+continue fase 
