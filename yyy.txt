@@ -8,3 +8,6 @@ ee
 ff
 
 kkbbdd
+
+
+kjh jk rebase merge revert reset --hard --continue --abort
