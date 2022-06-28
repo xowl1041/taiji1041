@@ -10,6 +10,7 @@ ff
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 kkbbdd
 
 
@@ -19,12 +20,18 @@ continue fase
 kkbbdd
 >>>>>>> ae6b619 (Revert "Revert "Revert "uu""")
 =======
+=======
+>>>>>>> 7ec2b41 (Revert "Revert "Revert "Revert "Revert "Revert "Revert "Revert "uu"""""""")
 gg
 uu
 ii
 
+<<<<<<< HEAD
 kkbbdd
 >>>>>>> 7d16221 (Revert "Revert "Revert "Revert "uu"""")
 =======
 kkbbdd
 >>>>>>> 869bdd6 (Revert "Revert "Revert "Revert "Revert "Revert "Revert "uu""""""")
+=======
+kkbbdd
+>>>>>>> 7ec2b41 (Revert "Revert "Revert "Revert "Revert "Revert "Revert "Revert "uu"""""""")
