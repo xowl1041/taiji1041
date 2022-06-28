@@ -1,2 +1,6 @@
 tttt.txt
+<<<<<<< HEAD
 tttt.html
+=======
+aaaa.html
+>>>>>>> ea46116 (aaaa.html)
