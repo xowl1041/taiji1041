@@ -8,6 +8,7 @@ ee
 ff
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 kkbbdd
 
 
@@ -16,3 +17,10 @@ continue fase
 =======
 kkbbdd
 >>>>>>> ae6b619 (Revert "Revert "Revert "uu""")
+=======
+gg
+uu
+ii
+
+kkbbdd
+>>>>>>> 7d16221 (Revert "Revert "Revert "Revert "uu"""")
