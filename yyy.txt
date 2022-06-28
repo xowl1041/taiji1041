@@ -7,8 +7,12 @@ dd
 ee
 ff
 
+<<<<<<< HEAD
 kkbbdd
 
 
 kjh jk rebase merge revert reset --hard --continue --abort
 continue fase 
+=======
+kkbbdd
+>>>>>>> ae6b619 (Revert "Revert "Revert "uu""")
